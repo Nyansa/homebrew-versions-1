@@ -25,7 +25,7 @@ class Python < Formula
   end
 
   bottle do
-    revision 3
+    rebuild 3
     sha256 "eed72bf7121ea53c10f1e8eebfde353a041fa94f7c1adaee4bcaabbc4039d707" => :el_capitan
     sha256 "cfb524c670d0e7d0206e8cb875901c343b7d116814e5d7e2872640ea9534d7fa" => :yosemite
     sha256 "1719312dea4f295ab75393a55ff2520f05c5ab4094927261e0ccb63c576b7b8f" => :mavericks
